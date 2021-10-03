@@ -59,7 +59,7 @@ Fork the project into your own Repository and using Github Desktop Clone this pr
 - Afterwards run the App.py file using command ```python app.py```.
 # Web Deployment
 - Log into your Heroku Account.
-- Click on ```create New App``
+- Click on ```create New App```
 - Choose ```Location``` and finally click on ```create app```
 - Choose Deployment method as Github and login into your github account and fork the desired repository to prepare the pipeline.
 - Result can be viewed by clicking on the App link which was generated.
