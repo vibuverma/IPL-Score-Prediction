@@ -40,6 +40,16 @@
 <h1 align="center">I have devised a full stack project with development using the concepts of machine learning .</h1>
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210612174532/WhatsAppImage20210612at11552PM.jpeg" width="1000" height="600">
+<h3 align="center">
+
+***
+<h3 align="center">
+    <a href="https://ipl-score-projection-app.herokuapp.com/">
+        Deployed application 
+    </a>
+</h3>
+                                                             
+
 
 
 ### Steps:
